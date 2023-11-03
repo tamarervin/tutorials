@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+.DS_Store
+__pycache__
+# *.fits
+*.png
+*.eps
+*.csv
+*.pdf
+*.zip
+*.cdf
+*.tmp
+*.wget
+*.cdf
+*.xml
+*.sts

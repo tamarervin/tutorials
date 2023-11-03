@@ -1,0 +1,3 @@
+[submodule "maven_iuvs"]
+	path = maven_iuvs
+	url = https://github.com/lasp/maven_iuvs

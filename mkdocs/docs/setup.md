@@ -1,14 +1,6 @@
-# Tutorials
+# Setup
 
-Repository containing tutorials on how to access and do basic analysis of a variety of Space Physics datasets. We primarily use the [pySPEDAS] package for data acquisition.
-
-## Tutorials
-
-* [Parker Data Acquisition](https://github.com/tamarervin/tutorials/blob/main/parker.ipynb) using [pySPEDAS](https://pyspedas.readthedocs.io/en/latest/psp.html)
-* [Solar Orbiter Data Acquisition](https://github.com/tamarervin/tutorials/blob/main/orbiter.ipynb) using [sunpy-soar](https://docs.sunpy.org/projects/soar/)
-* [MAVEN In Situ Data Acquisition](https://github.com/tamarervin/tutorials/blob/main/maven.ipynb) using [pySPEDAS](https://pyspedas.readthedocs.io/en/latest/maven.html)
-* [MAVEN IUVS Data Acquisition](https://github.com/tamarervin/tutorials/blob/main/iuvs.ipynb) using the [MAVEN IUVS](https://github.com/lasp/maven_iuvs/tree/master) package
-* [SDO Data Acquisition](https://github.com/tamarervin/tutorials/blob/main/sdo.ipynb) using [Sunpy](https://sunpy.org/)
+Repository containing tutorials on how to access and do basic analysis of a variety of Space Physics datasets. We primarily use the [pySPEDAS] package for data acquisition. Below are instructions for setting up the repository and conda environment.
 
 ## Cloning Repository
 
