@@ -18,8 +18,7 @@ dependencies:
   - python-wget
   - pip:
     - astroquery
-    - pfsspy == 1.2.0 ### creating PFSS extrapolations
-    - psipy ### reading in PSI MAS MHD solutions
+    # - pfsspy == 1.2.0 ### creating PFSS extrapolations
     - ipykernel
     - ipywidgets
     - astrospice == 0.2.0 ### pulling spacecraft trajectories
@@ -27,4 +26,4 @@ dependencies:
     - streamtracer
     - pyspedas == 1.4.36 ### pulling space physics data
     - sunpy-soar ### access the solar orbiter archive through snpy
-    - stixpy ### access solar orbiter stix data
+    # - stixpy ### access solar orbiter stix data
