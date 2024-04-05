@@ -1,4 +1,4 @@
-name: whales  # environment name
+name: analysis  # environment name
 channels:
   - defaults
   - conda-forge
@@ -25,6 +25,6 @@ dependencies:
     - astrospice == 0.2.0 ### pulling spacecraft trajectories
     - heliopy == 1.0.0
     - streamtracer
-    - pyspedas ### pulling space physics data
+    - pyspedas ==  ### pulling space physics data
     - sunpy-soar ### access the solar orbiter archive through snpy
     - stixpy ### access solar orbiter stix data
