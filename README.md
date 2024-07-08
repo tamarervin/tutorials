@@ -26,6 +26,27 @@ In Windows, if the ssh step doesn't work, use the https cloning method instead i
 git clone https://github.com/tamarervin/tutorials.git   
 ```   
 
+## Pushing Code to Repository
+
+To push your code to a repository, do the following:  
+
+Add all the files to the repo
+
+```
+git add .
+```
+
+Commit to the repository with a message4
+
+```
+git commit -m 'your message here'
+```
+
+Push to the repository
+
+```
+git push
+```
 
 ## Setting Up an SSH Key 
 
